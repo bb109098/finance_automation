@@ -1,0 +1,127 @@
+2026-03-11 18:11:08.696 | INFO     | core.pipeline:run:13 - Starting pipeline
+2026-03-11 18:11:08.697 | INFO     | signals.signal_scraper:fetch_news:9 - Fetching finance signals
+2026-03-11 18:11:08.697 | INFO     | signals.signal_scraper:run:15 - Collected 0 signals
+2026-03-11 18:11:08.697 | INFO     | topics.topic_generator:generate:29 - Generated 20 topics
+2026-03-11 18:11:08.697 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal limit penalty
+2026-03-11 18:11:08.698 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal limit penalty
+2026-03-11 18:11:08.698 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal mistake money loss
+2026-03-11 18:11:08.698 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal mistake money loss
+2026-03-11 18:11:08.699 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal hidden rule fee
+2026-03-11 18:11:08.699 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal hidden rule fee
+2026-03-11 18:11:08.699 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal scam money drain
+2026-03-11 18:11:08.699 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal scam money drain
+2026-03-11 18:11:08.700 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for UPI transfer limit penalty
+2026-03-11 18:11:08.700 | INFO     | core.pipeline:run:30 - Script generated for topic: UPI transfer limit penalty
+2026-03-11 18:13:03.651 | INFO     | core.pipeline:run:13 - Starting pipeline
+2026-03-11 18:13:06.071 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:13:06.072 | INFO     | topics.topic_generator:generate:29 - Generated 20 topics
+2026-03-11 18:13:06.072 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal limit penalty
+2026-03-11 18:13:06.072 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal limit penalty
+2026-03-11 18:13:06.072 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal mistake money loss
+2026-03-11 18:13:06.073 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal mistake money loss
+2026-03-11 18:13:06.073 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal hidden rule fee
+2026-03-11 18:13:06.073 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal hidden rule fee
+2026-03-11 18:13:06.074 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal scam money drain
+2026-03-11 18:13:06.074 | INFO     | core.pipeline:run:30 - Script generated for topic: ATM withdrawal scam money drain
+2026-03-11 18:13:06.074 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for UPI transfer limit penalty
+2026-03-11 18:13:06.074 | INFO     | core.pipeline:run:30 - Script generated for topic: UPI transfer limit penalty
+2026-03-11 18:16:47.473 | INFO     | core.pipeline:run:14 - Starting pipeline
+2026-03-11 18:16:48.757 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:16:48.758 | INFO     | core.pipeline:run:24 - 100 signals received
+2026-03-11 18:16:48.758 | INFO     | topics.topic_generator:generate:54 - Generated 4 topics from signals
+2026-03-11 18:16:48.758 | INFO     | core.pipeline:run:34 - 4 topics generated
+2026-03-11 18:16:48.758 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI limit penalty
+2026-03-11 18:16:48.759 | INFO     | core.pipeline:run:50 - Script generated for topic: Loan EMI limit penalty
+2026-03-11 18:16:48.759 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI mistake money loss
+2026-03-11 18:16:48.759 | INFO     | core.pipeline:run:50 - Script generated for topic: Loan EMI mistake money loss
+2026-03-11 18:16:48.759 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI scam money drain
+2026-03-11 18:16:48.759 | INFO     | core.pipeline:run:50 - Script generated for topic: Loan EMI scam money drain
+2026-03-11 18:16:48.761 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI hidden rule fee
+2026-03-11 18:16:48.762 | INFO     | core.pipeline:run:50 - Script generated for topic: Loan EMI hidden rule fee
+2026-03-11 18:24:05.351 | INFO     | core.pipeline:run:14 - Starting pipeline
+2026-03-11 18:24:06.486 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:24:06.487 | INFO     | core.pipeline:run:24 - 100 signals received
+2026-03-11 18:24:06.487 | INFO     | topics.topic_generator:generate:67 - Generated 32 topics from signals
+2026-03-11 18:24:06.488 | INFO     | core.pipeline:run:34 - 32 topics generated
+2026-03-11 18:24:06.488 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Bank scam limit penalty
+2026-03-11 18:24:06.488 | INFO     | core.pipeline:run:50 - Script generated for topic: Bank scam limit penalty
+2026-03-11 18:24:06.488 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI scam money drain
+2026-03-11 18:24:06.489 | INFO     | core.pipeline:run:50 - Script generated for topic: Loan EMI scam money drain
+2026-03-11 18:24:06.489 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:24:06.489 | INFO     | core.pipeline:run:50 - Script generated for topic: OTP fraud mistake money loss
+2026-03-11 18:24:06.489 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud scam money drain
+2026-03-11 18:24:06.490 | INFO     | core.pipeline:run:50 - Script generated for topic: OTP fraud scam money drain
+2026-03-11 18:24:06.490 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal limit penalty
+2026-03-11 18:24:06.491 | INFO     | core.pipeline:run:50 - Script generated for topic: ATM withdrawal limit penalty
+2026-03-11 18:30:52.961 | INFO     | core.pipeline:run:14 - Starting pipeline
+2026-03-11 18:30:53.962 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:30:53.962 | INFO     | core.pipeline:run:23 - 100 signals received
+2026-03-11 18:30:53.963 | INFO     | topics.topic_generator:generate:67 - Generated 32 topics from signals
+2026-03-11 18:30:53.963 | INFO     | core.pipeline:run:31 - 32 topics ranked
+2026-03-11 18:30:53.963 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Bank fraud limit penalty
+2026-03-11 18:30:53.963 | INFO     | core.pipeline:run:42 - Script generated for topic: Bank fraud limit penalty
+2026-03-11 18:30:53.964 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:30:53.964 | INFO     | core.pipeline:run:42 - Script generated for topic: OTP fraud mistake money loss
+2026-03-11 18:30:53.964 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Bank scam limit penalty
+2026-03-11 18:30:53.964 | INFO     | core.pipeline:run:42 - Script generated for topic: Bank scam limit penalty
+2026-03-11 18:30:53.966 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud limit penalty
+2026-03-11 18:30:53.966 | INFO     | core.pipeline:run:42 - Script generated for topic: OTP fraud limit penalty
+2026-03-11 18:30:53.966 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Bank fraud mistake money loss
+2026-03-11 18:30:53.966 | INFO     | core.pipeline:run:42 - Script generated for topic: Bank fraud mistake money loss
+2026-03-11 18:31:43.988 | INFO     | core.pipeline:run:14 - Starting pipeline
+2026-03-11 18:31:44.488 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:31:44.488 | INFO     | core.pipeline:run:23 - 100 signals received
+2026-03-11 18:31:44.489 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:31:44.490 | INFO     | core.pipeline:run:31 - 14 topics ranked
+2026-03-11 18:31:44.490 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:31:44.490 | INFO     | core.pipeline:run:42 - Script generated for topic: OTP fraud mistake money loss
+2026-03-11 18:31:44.490 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI hidden rule fee
+2026-03-11 18:31:44.490 | INFO     | core.pipeline:run:42 - Script generated for topic: Loan EMI hidden rule fee
+2026-03-11 18:31:44.491 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Credit card mistake money loss
+2026-03-11 18:31:44.491 | INFO     | core.pipeline:run:42 - Script generated for topic: Credit card mistake money loss
+2026-03-11 18:31:44.491 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Credit card hidden rule fee
+2026-03-11 18:31:44.492 | INFO     | core.pipeline:run:42 - Script generated for topic: Credit card hidden rule fee
+2026-03-11 18:31:44.492 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for Loan EMI limit penalty
+2026-03-11 18:31:44.492 | INFO     | core.pipeline:run:42 - Script generated for topic: Loan EMI limit penalty
+2026-03-11 18:32:59.277 | INFO     | core.pipeline:run:15 - Starting pipeline
+2026-03-11 18:33:00.435 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:33:00.435 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:33:00.436 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:33:00.436 | INFO     | core.pipeline:run:36 - Script generated for topic: OTP fraud mistake money loss
+2026-03-11 18:33:00.436 | INFO     | media.scene_planner:generate:74 - 9 scenes generated
+2026-03-11 18:34:32.671 | INFO     | core.pipeline:run:15 - Starting pipeline
+2026-03-11 18:34:33.222 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:34:33.223 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:34:33.223 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:34:33.223 | INFO     | core.pipeline:run:36 - Script generated for topic: OTP fraud mistake money loss
+2026-03-11 18:34:33.224 | INFO     | media.scene_planner:generate:121 - 9 detailed scenes generated
+2026-03-11 18:35:30.766 | INFO     | core.pipeline:run:16 - Starting pipeline
+2026-03-11 18:35:31.755 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:35:31.756 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:35:31.756 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:35:31.756 | INFO     | core.pipeline:run:37 - Script generated for topic: OTP fraud mistake money loss
+2026-03-11 18:35:31.756 | INFO     | media.scene_planner:generate:121 - 9 detailed scenes generated
+2026-03-11 18:35:31.758 | INFO     | core.pipeline:run:50 - Scene output saved to scene_output.json
+2026-03-11 18:48:52.782 | INFO     | core.pipeline:run:17 - Starting pipeline
+2026-03-11 18:48:53.818 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:53:25.334 | INFO     | core.pipeline:run:17 - Starting pipeline
+2026-03-11 18:53:26.482 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:53:27.734 | INFO     | core.pipeline:run:27 - 102 total signals collected
+2026-03-11 18:53:27.736 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:53:27.737 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for OTP fraud mistake money loss
+2026-03-11 18:53:27.737 | INFO     | media.scene_planner:generate:103 - 9 stick animation scenes generated
+2026-03-11 18:53:27.738 | INFO     | core.pipeline:run:56 - Scene output saved
+2026-03-11 18:55:01.814 | INFO     | core.pipeline:run:18 - Starting pipeline
+2026-03-11 18:55:02.290 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:55:03.576 | INFO     | core.pipeline:run:28 - 102 total signals collected
+2026-03-11 18:55:03.577 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:55:03.577 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for ATM withdrawal limit penalty
+2026-03-11 18:55:03.577 | INFO     | media.scene_planner:generate:103 - 9 stick animation scenes generated
+2026-03-11 18:55:03.578 | INFO     | core.pipeline:run:57 - Scene output saved
+2026-03-11 18:55:07.908 | INFO     | core.pipeline:run:18 - Starting pipeline
+2026-03-11 18:55:08.507 | INFO     | signals.signal_scraper:run:53 - Collected 100 signals
+2026-03-11 18:55:12.489 | INFO     | core.pipeline:run:28 - 102 total signals collected
+2026-03-11 18:55:12.490 | INFO     | topics.topic_generator:generate:77 - Generated 14 topics from signals
+2026-03-11 18:55:12.490 | INFO     | hooks.hook_generator:generate:18 - Generated hooks for UPI transfer scam money drain
+2026-03-11 18:55:12.490 | INFO     | media.scene_planner:generate:103 - 9 stick animation scenes generated
+2026-03-11 18:55:12.491 | INFO     | core.pipeline:run:57 - Scene output saved
